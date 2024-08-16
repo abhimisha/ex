@@ -1,0 +1,110 @@
+1. What is the name of the Robot that helps you write code in the game?
+
+1. The Agent
+2. The secret Agent
+3. The Helping Agent
+4. Friendly Agent
+
+2. Survival Mode is where the player must collect resources,build structures while surviving in their world
+
+True 
+False
+
+3. Game based Learning is
+
+Using games for purposeful fun
+
+Using games for learning
+
+letting learners run wild and play
+
+
+
+4. Skins helps to personalize the Avataar
+
+True
+
+False
+
+
+
+5. Which features helps the user to read content from the game through audio
+
+Camera
+
+Book and Quill
+
+Immersive Reader
+
+6. Which character guides the user in the game by giving instructions and providing useful information
+
+portfolio
+Player
+Agent
+NPC
+
+7. Which key helps to crouch and sneek in minecraft world
+
+Space
+Esc
+Shift
+F5
+
+
+8. which key helps to drop the item you are carrying
+
+A
+D
+Q
+Space
+
+9. By pressing SPACE bar, you can jump, hop, swim and fly.
+
+True
+
+False
+
+10. What are the different landscapes called in Minecraft world
+
+Block
+World
+Tick
+Biome
+
+
+11.Which feature allows the user to explore , create and play  immersive world by writing the code
+
+Immersice vode
+Code Builder
+code blocks
+classroom code
+
+12. To bring up the code builder interface in Minecraft, we press:
+
+M
+C
+T
+D
+
+13.To open up the Chat interface in Minecraft, we press:
+C
+T
+M
+Q
+
+14. What does this code snippet do?
+
+it will spawn 100 eggs 
+it will spawn 100 chicken on the ground
+it will spawn 100 chicken  10 block above the player
+it will spawn 100 eggs 10 block above the player
+
+15.Which is the correct code for Agent to reach the gold block
+
+16. Which code could be used to collect the Gold block?
+
+
+
+
+
+
